@@ -1,0 +1,43 @@
+
+Olá, bem vindo ao meu site!
+
+Meu nome é Mateus Gemelli Ramos, tenho 23 anos e sou estudante de estatística pela Universidade Federal do Paraná. 
+Estou em constante procura no desenvolvimento das minhas capacidades análiticas, desde o inicio da minha graduação busquei no mercado de trabalho a
+complementação prática do que aprendi na universidade. Agora ja proximo da formação, tenho experiencia banco de dados, análise e estruturação da informação.
+
+## interesses
+
+* Manipulação de dados e visualização
+* Teoria de Resposta ao Item
+* Modelagem
+* Big-data
+
+## Graduação
+
+Atualmente - Cursando Estatística – 8º período na Universidade Federal do Paraná (UFPR)
+2017 - Transferencia da UFMT para a UFPR 
+2014 -  Inicio da Graduação em Estatística na Universidade Federal do Mato-Grosso
+
+### Competências
+
+* Excel 
+* Pacote office
+* SAS 
+* SQL 
+* Linguagem R 
+* Power BI
+* Tableau
+* Protheus
+
+### Qualificações
+
+######	Curso Técnico de Programação
+Curso de duração de 480 horas na Universidade Paranaense sobre programação java.
+
+######	Mini curso - Introdução a Sensometria usando o R
+Mini-curso ofertado pela UFMT com 20h de duração. Com uma introdução aos conceitos e métodos de análise sensorial.
+
+###### Academia de Modelagem 2016
+Curso de 120 horas ofertado pelo Departamento de Inteligência de Crédito do HSBC .
+Foram 
+

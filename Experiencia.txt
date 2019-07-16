@@ -1,0 +1,91 @@
+
+### BRF S.A. (dá para colocar a logo da empresa?)
+Sobre a empresa: A BRF S.A. é uma das maiores companhias de alimentos do mundo, com mais de 30 marcas em seu portfólio, entre elas as gigantes Sadia, Perdigão, Qualy e Perdix.
+Seus produtos são comercializados em mais de 150 países, nos cinco continentes.
+
+Área: CIEX Performance - Logística Secundaria
+
+Cargo: Estagiário
+
+Período: julho/2019 - Atual
+
+Principais atividades.
+
+* Dar suporte à Diretoria Logística em demandas financeiras.
+* Acompanhar execução dos planos da Logística Brasil, auxiliando no atingimento das metas.
+* Acompanhar as provisões.
+* Construção de Dashboards.
+
+Ferramentas utilizadas no ambiente de trabalho.
+
+* Excel
+* Power BI
+* Tableau
+* RStudio
+
+### MADVEI (da para colocar a logo da empresa?)
+Sobre a empresa: Empresa que atua no mercado madeireiro, atuando no mercado nacional e internacional.  
+
+Area : Administrativo.
+
+Cargo: Analista.
+
+Período :  Agosto/2018 – Janeiro/2019 - 6 meses.
+
+Principais atividades.
+
+* Controle Estatístico de Qualidade da Produção - CEP.
+* Análise de dados de estabilidade.
+* Elaboração de projetos para redução de custos.
+
+Ferramentas utilizadas no ambiente de trabalho.
+
+* Excel
+* Protheus Totvs
+* SQL
+* Pacote Office
+
+### Banco Bradesco (dá para colocar a logo da empresa?)
+Sobre a empresa: Bradesco é um banco brasileiro com atuação em todo o mercado nacional, com presença em todos os municípios do país. Considerada uma das marcas mais valiosas da América Latina desde 2012, está no ranking dos 5 maiores bancos do Brasil.
+
+Área: Inteligência de Crédito - Modelagem de Dados.
+
+Cargo: Estagiário.
+
+Período: junho/2016 - junho/2018 - 2 anos.
+
+Principais atividades
+
+* Criação dos modelos de regressão logística para tomada de decisão.
+* Análises de comportamento de mercado.
+* Elaboração de fluxos, documentação, processos e apresentações.
+
+Ferramentas utilizadas no ambiente de trabalho
+
+* SAS
+* SQL
+* Excel
+* Pacote Office
+
+### Secretaria de Relações Internacionais (SECRI) (dá para colocar a logo da empresa?)
+Sobre a empresa: A Secretaria de Relações Internacionais - Secri, desenvolve e implementa políticas e projetos para a internacionalização da Universidade Federal de Mato Grosso. No processo de mobilidade internacional, a Secri atua como ponte entre as instituições de ensino estrangeiras, as agências de mobilidade estudantil e os estudantes, docentes e técnicos-administrativos da UFMT.
+
+
+Área: Administrativa.
+
+Cargo: Estagiário.
+
+Período:  outubro/2014 - agosto/2015 - 1 ano.
+
+Principais atividades
+
+* Análise quali/quantitativas.
+* Responsável pelo banco de dados.
+* Responsável pelos programas de intercâmbio Erasmus mundus e PIIG.
+* Atendimento ao publico
+
+Ferramentas utilizadas no ambiente de trabalho
+
+* Excel
+* Google Drive
+* Pacote Office
